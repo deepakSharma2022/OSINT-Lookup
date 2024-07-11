@@ -77,6 +77,7 @@
 </head>
 <body>
     <nav class="navbar">
+         <a class="navbar-brand" href="#">OSINT</a>
         <a href="ip.php">IP Lookup</a>
         <a href="dns.php">DNS Lookup</a>
         <a href="tempmail.php">TempMail Lookup</a>
